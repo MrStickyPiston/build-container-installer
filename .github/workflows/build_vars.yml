@@ -9,7 +9,7 @@ on:
         value: '
           {
             "version": [
-              "latest"
+              "41"
             ],
             "flatpaks": [
               "false"
