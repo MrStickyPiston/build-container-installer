@@ -9,20 +9,16 @@ on:
         value: '
           {
             "version": [
-              "39", 
-              "40",
-              "41"
+              "latest"
             ],
             "flatpaks": [
-              "false",
-              "flatpak_refs_dir",
-              "flatpak_refs"
+              "false"
             ],
             "image_repo": [
-              "ghcr.io/ublue-os"
+              "ghcr.io/mrstickypiston"
             ],
             "image_name": [
-              "base-main"
+              "sticky-os", "sticky-os-nvidia", "personal-aurora"
             ]
           }'
       VARIANT:
