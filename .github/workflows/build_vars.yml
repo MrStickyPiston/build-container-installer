@@ -18,7 +18,9 @@ on:
               "ghcr.io/mrstickypiston"
             ],
             "image_name": [
-              "sticky-os", "sticky-os-nvidia", "personal-aurora"
+              "sticky-os",
+              "sticky-os-nvidia",
+              "personal-aurora"
             ]
           }'
       VARIANT:
